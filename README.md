@@ -1,4 +1,5 @@
 # Todo List App 📋
+![Screenshot (1)](https://github.com/DarboeDev/Todo-List-React/assets/125799918/2ff3befc-66c8-4d04-aa83-dccf4982ef95)
 
 ## Description
 This is a simple web-based responsive to-do list application built with React. It allows users to create, manage, and delete tasks for their daily activities. The app provides a user-friendly interface for adding tasks, marking them as completed, and removing tasks when they're no longer needed.
